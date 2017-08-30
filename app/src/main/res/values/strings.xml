@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ScrollObserver</string>
+    <string name="dummy_text">Lorem ipsum dolor sit amet</string>
+    <string name="target">Target</string>
 </resources>

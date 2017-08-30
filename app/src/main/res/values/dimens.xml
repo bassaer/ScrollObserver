@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="image_height">80dp</dimen>
+
+    <dimen name="font_small">20sp</dimen>
+    <dimen name="font_medium">30sp</dimen>
+
+    <dimen name="space_medium">16dp</dimen>
+    <dimen name="space_small">8dp</dimen>
+</resources>
